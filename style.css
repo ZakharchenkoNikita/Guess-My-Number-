@@ -86,6 +86,7 @@ main {
   background: #eee;
   color: #222;
   font-style: 6rem;
+  font-size: 5rem;
   width: 15rem;
   padding: 3rem 0rem;
   text-align: center;
@@ -110,7 +111,7 @@ main {
 
 .message {
   margin-top: 8rem;
-  height: 3rem;
+  height: 5rem;
 }
 
 .label-score {
